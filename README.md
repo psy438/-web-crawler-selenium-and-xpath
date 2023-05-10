@@ -1,1 +1,4 @@
-# -web-crawler-selenium-and-xpath
+首先你必须拥有selenium库，还要有xpath解析相关库，webdriver已经有了，但是edge和python的版本不一定兼容，因此如果出现相应提示，自己去找地方下
+我的webdriver是适应edge浏览器的，如果你希望使用其他浏览器的，自己去下载并且调试
+图片会下载到其中一个名为“米游社同人图”的文件夹中
+如果你想下载到其他地方，请自己修改代码
